@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegatiVezbNet", "delegatiVezbNet\delegatiVezbNet.csproj", "{EB046B3A-AF06-4DC3-BBB9-B54D3125465C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegatiVezbNet2", "delegatiVezbNet2\delegatiVezbNet2.csproj", "{3DE42A53-557E-4AA1-8CF4-B4006672DE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB046B3A-AF06-4DC3-BBB9-B54D3125465C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB046B3A-AF06-4DC3-BBB9-B54D3125465C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB046B3A-AF06-4DC3-BBB9-B54D3125465C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB046B3A-AF06-4DC3-BBB9-B54D3125465C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE42A53-557E-4AA1-8CF4-B4006672DE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE42A53-557E-4AA1-8CF4-B4006672DE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE42A53-557E-4AA1-8CF4-B4006672DE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE42A53-557E-4AA1-8CF4-B4006672DE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B17DFD-A560-42B8-A90C-F9F0806C7F76}
+	EndGlobalSection
+EndGlobal
